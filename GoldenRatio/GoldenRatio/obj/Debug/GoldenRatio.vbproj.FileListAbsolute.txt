@@ -1,0 +1,34 @@
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe.config
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.pdb
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.xml
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Form1.resources
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Resources.resources
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.vbproj.GenerateResource.Cache
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.exe
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.xml
+C:\Users\javapips\Documents\cs105\Winter-2018\Labs-formOnly\Lab8-formOnly\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.pdb
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe.config
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.exe
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.xml
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.pdb
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.pdb
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.xml
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Form1.resources
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Resources.resources
+E:\CS105\Medina-Lab8\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.vbproj.GenerateResource.Cache
+E:\CS105\Medina-Project3\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe.config
+E:\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.exe
+E:\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.xml
+E:\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.pdb
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe.config
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.exe
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.xml
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.pdb
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.exe
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.pdb
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\bin\Debug\GoldenRatio.xml
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Form1.resources
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.Resources.resources
+D:\CS Classes\CS105\Medina-Project3\GoldenRatio\GoldenRatio\obj\Debug\GoldenRatio.vbproj.GenerateResource.Cache
